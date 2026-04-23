@@ -1,5 +1,5 @@
 # Vehicle Rental System
-**OOAD Mini Project | UE23CS352B | Team of 4**
+**OOAD Mini Project | UE23CS352B | Team of 2**
 
 ## Tech Stack
 - Java 21
